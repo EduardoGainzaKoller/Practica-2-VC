@@ -1,4 +1,4 @@
-# README
+# Práctica 2
 
 Este repositorio contiene un cuaderno de Jupyter con prácticas de **Procesamiento Digital de Imágenes** utilizando **OpenCV** y **Python**.  
 A continuación, se describen las tareas implementadas:
