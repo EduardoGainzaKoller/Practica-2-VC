@@ -26,7 +26,7 @@ A continuación, se describen las tareas implementadas:
   1. **Original**  
   2. **Sustracción de fondo**  
   3. **Escala de grises**  
-  4. **Canny (bordes)**  
+  4. **CANNY (bordes)**  
 - Se permite alternar entre modos con la tecla `m`.
 - Se cierra con la tecla `ESC`.
 
